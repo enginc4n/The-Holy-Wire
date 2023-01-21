@@ -12,7 +12,7 @@ It's a game jam game that is made in 48 hours.
 
  You can play this game from the itch.io link (the link is in the My Links area and links are clickable)
 
-**Key Bindings**
+## ***Key Bindings***
 
 *"A,D"* keys to *MOVE* 
 
